@@ -1,0 +1,11 @@
+/* Light Theme Styles */
+.light-theme {
+  background-color: white;
+  color: black;
+}
+
+/* Dark Theme Styles */
+.dark-theme {
+  background-color: black;
+  color: white;
+}
