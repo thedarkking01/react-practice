@@ -38,7 +38,7 @@ function App() {
 
 
   //variation: 5
-  //iss baarlet's add a cleanup function
+  //iss baar let's add a cleanup function
   // useEffect(() => {
   //   alert("Count is updated")
   //   return () => {
